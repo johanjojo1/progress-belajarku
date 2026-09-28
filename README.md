@@ -55,3 +55,7 @@ Catatan Harian tentang pengembangan skil
 
 ## **27 September**
 - Belajar Revert dan coba mempraktikannya
+- Belajar Bahasa Inggris
+- Belajar Menulis Hiragana
+- Belajar Figma
+
